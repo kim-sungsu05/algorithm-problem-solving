@@ -32,7 +32,7 @@ class Main {
             }
         }
         System.out.println("종료");
-        sc.close;
+        sc.close();
     }
 }
 // ==============================================================
@@ -43,21 +43,21 @@ class Main {
 // ==============================================================
 // ■ 리펙토링 코드
         // 첫 번째 값을 미리 읽어 prev 초기화 (Integer.MIN_VALUE 엣지케이스 제거)
-        int prev = sc.nextInt();
-        int streak = 1;
+        // int prev = sc.nextInt();
+        // int streak = 1;
 
-        while (streak < 3) {
-            int num = sc.nextInt();
+        // while (streak < 3) {
+        //     int num = sc.nextInt();
 
-            if (num == prev) {
-                streak++;
-            } else {
-                // 이전 값과 다르므로 streak을 1로 초기화
-                streak = 1;
-                // prev값을 현재값으로 초기화
-                prev = num;
-            }
-        }
+        //     if (num == prev) {
+        //         streak++;
+        //     } else {
+        //         // 이전 값과 다르므로 streak을 1로 초기화
+        //         streak = 1;
+        //         // prev값을 현재값으로 초기화
+        //         prev = num;
+        //     }
+        // }
 
-        System.out.println("종료");
-        sc.close(); // 리소스 해제
+        // System.out.println("종료");
+        // sc.close(); // 리소스 해제

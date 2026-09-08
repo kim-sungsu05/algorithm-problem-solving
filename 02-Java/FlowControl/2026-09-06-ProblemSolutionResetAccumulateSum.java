@@ -42,22 +42,22 @@ class Main {
 // ■ try-with-resources
 
 // try () 괄호 안에서 생성된 리소스는 try 블록이 끝나는 순간 자동으로 close()
-try (Scanner sc = new Scanner(System.in)) {
-    int sum = 0;
-    int num;
+// try (Scanner sc = new Scanner(System.in)) {
+//     int sum = 0;
+//     int num;
 
-        do {
-            num = sc.nextInt();
+//         do {
+//             num = sc.nextInt();
 
-            if (num == 0) {
-                sum = 0;
-            } else if (num != -1) {
-                sum += num;
-            }
-        } while (num != -1);
+//             if (num == 0) {
+//                 sum = 0;
+//             } else if (num != -1) {
+//                 sum += num;
+//             }
+//         } while (num != -1);
 
-        System.out.println("합계: " + sum);
-        } // try 블록 종료 시점에 sc.close()가 자동으로 실행됨
+//         System.out.println("합계: " + sum);
+//         } // try 블록 종료 시점에 sc.close()가 자동으로 실행됨
 
 // 예외 발생시 안전성 보장, 가독성향상, 명시적 sc.close()호출이 필요없다는 장점이 있다.
 // ==============================================================
