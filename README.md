@@ -1,12 +1,10 @@
-# Today I Learned
+# Algorithm Problem Solving
 
-毎日学んだ内容を記録し、学習するためのリポジトリです。
+日々の問題演習を記録し、アルゴリズムスキルをさらに高めるためのリポジトリです。
 
 <br>
 
 ## 🌐 Documentation Language
-
-日本語学習を兼ねて、生成AIを活用しながら日本語で作成しています。
 
 PythonとJava、SQLの問題演習はコードが中心となるため、効率的な学習を目的として、コメントや改善点は韓国語で記述しています。
 
@@ -19,9 +17,7 @@ PythonとJava、SQLの問題演習はコードが中心となるため、効率�
 | フォルダ | カテゴリ | 概要 |
 | :--- | :--- | :--- |
 | Python | Python 問題演習 | Flow Control・Data Struture・Function |
-| Java | Java 問題演習 | Flow Control、OOP |
-| Web | Frontend + Backtend | HTML・CSS、PHP |
-| CS | Computer Science | OS、Git |
+| Java | Java 問題演習 | Flow Control |
 | SQL | Oracle SQL 問題演習 | SELECT |
 
 ---
