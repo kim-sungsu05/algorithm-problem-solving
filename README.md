@@ -4,7 +4,7 @@
 
 <br>
 
-## 🌐 Documentation Language
+## 🌐 Language
 
 PythonとJava、SQLの問題演習はコードが中心となるため、効率的な学習を目的として、コメントや改善点は韓国語で記述しています。
 
@@ -16,15 +16,15 @@ PythonとJava、SQLの問題演習はコードが中心となるため、効率�
 
 | フォルダ | カテゴリ | 概要 |
 | :--- | :--- | :--- |
-| Python | Python 問題演習 | Flow Control・Data Struture・Function |
-| Java | Java 問題演習 | Flow Control |
-| SQL | Oracle SQL 問題演習 | SELECT |
+| Python | Python 問題演習 | Flow Control・Data Struture・Function・OOP|
+| Java | Java 問題演習 | Flow Control・OOP |
+| SQL | Oracle SQL 問題演習 | SELECT | 
 
 ---
 
 <br>
 
-## ✅ Commit Convention
+## ✅ Commit
 
 * **コミットメッセージの形式:**
   * solution: アルゴリズム問題の解答
