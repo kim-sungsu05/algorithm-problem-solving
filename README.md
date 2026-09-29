@@ -6,7 +6,7 @@
 
 <br>
 
-## 🌐 Documentation Language
+## Documentation Language
 
 PythonとJava、SQLの問題演習はコードが中心となるため、コメントや改善点は韓国語で記述しています。
 
@@ -14,7 +14,7 @@ PythonとJava、SQLの問題演習はコードが中心となるため、コメ�
 
 <br>
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 /
