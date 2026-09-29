@@ -28,6 +28,6 @@ PythonとJava、SQLの問題演習はコードが中心となるため、コメ�
 │   ├── 📂 Flow-Control/
 │   └── 📄 README.md        # Object Oriented Programming
 └── 📂 SQL/
-    ├── 📂 SELECT/
+    ├── 📂 Tables/          # 各テーブルごとのSELECT問題演習フォルダ
     └── 📄 README.md        # SQL
 ```
