@@ -1,3 +1,5 @@
+<br>
+
 # 🧩 Studying Algorithms and Data Structures
 
 ### Big-O Notation
@@ -20,7 +22,7 @@ def fib(n):
   
   return fib(n - 1) + fib(n - 2)
 
-# 메모제이션 활용 O(n)
+# 메모이제이션 활용 O(n)
 memo = {}
 
 def fib(n):
@@ -33,7 +35,7 @@ def fib(n):
   return memo[n]
 # 이런 접근을 동적 계획법이라고 한다
 ```
-<br>모든 O(2^n)을 다 O(n)로 최적화는 불가능하다. O(n^2)정도나 지수시간을 피하기 힘들 수도 있다. <br>반면 O(log n)은 데이터가 2배로 늘어나도 연산횟수는 단 1번만 늘어나며, 아잔탐색이 대표적인 예시다
+<br>모든 O(2^n)을 다 O(n)로 최적화는 불가능하다. O(n^2)정도나 지수시간을 피하기 힘들 수도 있다. <br>반면 O(log n)은 데이터가 2배로 늘어나도 연산횟수는 단 1번만 늘어나며, 이진탐색이 대표적인 예시다
 
 ```python
 # 이진 탐색으로 리스트에서 특정값을 찾는 방법
