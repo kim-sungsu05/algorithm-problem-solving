@@ -11,7 +11,7 @@
 # 4. 카운팅이 가장 높은 순서대로 3개의 단어 출력, 3개가 안 될 경우 있는 만큼 출력한다
 # ==============================================================
 
-stopwords = {"a", "an", "the", "is", "are", "in", "on", "at", "and", "or", "but"}[cite: 11]
+stopwords = {"a", "an", "the", "is", "are", "in", "on", "at", "and", "or", "but"}
 text = input().lower().split()
 
 word_counting = {}
