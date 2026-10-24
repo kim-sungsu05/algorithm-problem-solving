@@ -6,13 +6,22 @@
 <details>
 <summary>日本語で読む</summary>
 
+<br>
+
 日々の問題演習を記録し、アルゴリズムスキルをさらに高めるためのリポジトリです。
 <br>PythonとJava、SQLの問題演習はコードが中心となるため、コメントや改善点は韓国語で記述しています。<br>一部のドキュメントは、日本語学習を兼ねて日本語で作成しています。
 </details>
 
 ---
 
+## Related Website
 
+[🔗Visit Website](https://kim-sungsu05.github.io/algorithm-data-sructure-notes/) 
+
+알고리즘과 자료구조를 공부하며 제작한 학습 기록 웹사이트입니다. <br>
+アルゴリズムとデータ構造を学びながら、自分で制作した学習記録サイトです。
+
+---
 
 ## Repository Structure
 
@@ -22,8 +31,7 @@
 │   ├── 📂 Flow-Control/
 │   ├── 📂 Data-Structure/
 │   ├── 📂 Function/
-│   ├── 📂 OOP/
-│   └── 📄 README.md        # Algorithms & Data Structures
+│   └── 📂 OOP/ 
 ├── 📂 Java/
 │   ├── 📂 Flow-Control/
 │   ├── 📂 OOP/
