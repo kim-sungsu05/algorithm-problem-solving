@@ -14,14 +14,6 @@
 
 ---
 
-## Related Website
-
-[🔗Visit Website](https://kim-sungsu05.github.io/algorithm-data-sructure-notes/) 
-
-알고리즘과 자료구조를 공부하며 제작한 학습 기록 웹사이트입니다. <br>
-アルゴリズムとデータ構造を学びながら、自分で制作した学習記録サイトです。
-
----
 
 ## Repository Structure
 
